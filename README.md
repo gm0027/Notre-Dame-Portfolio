@@ -7,10 +7,10 @@ Attached is my simulated portfolio in an attempt to outperform the Vanguard Tota
 
 - Microsoft (MSFT)
 - Google (GOOG)
-Automatic Data Processing (ADP)
-Amazon (AMZN) 
-The Blackstone Group (BX) 
-Berkshire Hathaway (BRK.B)
-Shopify (SHOP) 
+- Automatic Data Processing (ADP)
+- Amazon (AMZN) 
+- The Blackstone Group (BX) 
+- Berkshire Hathaway (BRK.B)
+- Shopify (SHOP) 
 
 I have chosen the weight of each stock by assessing the Annualized Sharpe Ratio of each stock. In this hypothetical situation, I have chosen an initial investment of $100,000 and levered the Total Market Index based on my portfolio beta. 
