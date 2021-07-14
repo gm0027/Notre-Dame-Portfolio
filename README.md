@@ -5,8 +5,8 @@
 ## Background
 Attached is my simulated portfolio in an attempt to outperform the Vanguard Total Market Index Fund (VTI). I have attached my risk analysis, stock choices, and weights of each specific stock. The stocks that I have chosen are: 
 
-Microsoft (MSFT)
-Google (GOOG)
+- Microsoft (MSFT)
+- Google (GOOG)
 Automatic Data Processing (ADP)
 Amazon (AMZN) 
 The Blackstone Group (BX) 
