@@ -14,3 +14,8 @@ Attached is my simulated portfolio in an attempt to outperform the Vanguard Tota
 - Shopify (SHOP) 
 
 I have chosen the weight of each stock by assessing the Annualized Sharpe Ratio of each stock. In this hypothetical situation, I have chosen an initial investment of $100,000 and levered the Total Market Index based on my portfolio beta. 
+
+Please refer to the Beating_Market file for the code. 
+
+
+This is not investment advice. 
